@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sastrija
+- 👀 I’m interested in programming, photography & travel
+- 🌱 I’m currently learning Spring Boot
